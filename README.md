@@ -1,6 +1,6 @@
 alfred-clean-deriveddata
 ========================
 
-Clean Xcode's DerivedData
+[Alfred](http://www.alfredapp.com/) workflow to clean Xcode's DerivedData.
 
-Icon © Agus Wijaya, http://www.aguswijaya.com
+Icon © [Agus Wijaya](http://www.aguswijaya.com)
