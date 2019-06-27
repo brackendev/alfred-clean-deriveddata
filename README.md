@@ -1,5 +1,6 @@
 alfred-clean-deriveddata
 ========================
+[![](https://img.shields.io/badge/platform-macOS-lightgrey.svg)](http://www.apple.com/macos/)
 [![](https://img.shields.io/badge/Maintained-No-red.svg)]()
 
 [Alfred](http://www.alfredapp.com/) workflow to clean Xcode's DerivedData.
